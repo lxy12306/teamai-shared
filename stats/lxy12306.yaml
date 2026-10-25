@@ -1,8 +1,17 @@
 username: lxy12306
-updatedAt: 2026-10-24T01:12:54.371Z
-skills: {}
+updatedAt: 2026-10-25T08:36:13.953Z
+skills:
+  show-me:
+    count: 1
+    lastUsed: 2026-10-25T08:35:57.630Z
 interventions:
-  sessions: 2
+  sessions: 3
   interrupt: 0
   toolReject: 0
   correction: 0
+prompts: 1
+tokens:
+  input: 0
+  output: 0
+  cacheRead: 0
+  cacheCreation: 0
