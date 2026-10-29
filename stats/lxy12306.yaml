@@ -1,17 +1,48 @@
 username: lxy12306
-updatedAt: 2026-10-25T08:36:13.953Z
+updatedAt: 2026-10-29T01:05:54.386Z
 skills:
   show-me:
-    count: 1
+    count: 2
     lastUsed: 2026-10-25T08:35:57.630Z
 interventions:
-  sessions: 3
-  interrupt: 0
+  sessions: 6
+  interrupt: 2
   toolReject: 0
-  correction: 0
-prompts: 1
+  correction: 1
+prompts: 11
 tokens:
   input: 0
   output: 0
   cacheRead: 0
   cacheCreation: 0
+daily:
+  2026-10-25:
+    sessionsEnded: 1
+    sessionsSucceeded: 1
+    promptTurns: 1
+    durationMs: 217029
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+  2026-10-28:
+    sessionsEnded: 1
+    sessionsSucceeded: 0
+    promptTurns: 8
+    durationMs: 1218350
+    sessionsCorrected: 1
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+  2026-10-29:
+    sessionsEnded: 1
+    sessionsSucceeded: 1
+    promptTurns: 1
+    durationMs: 15758
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
